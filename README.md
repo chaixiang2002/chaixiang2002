@@ -5,7 +5,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GDPU
-- 🌱 I’m currently learning C
+- 🌱 I’m want to learning 
+{
+  C++,
+  C,
+  Shell,
+  OpenGL,
+  Unreal4,
+  Linux
+}
 - 👯 I’m looking to collaborate on C
 - 🤔 I’m looking for help with Study
 - 💬 Ask me about C
