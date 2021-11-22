@@ -26,7 +26,7 @@ this  is  me
 - There are no close friends of the opposite sex  
 ![cx](/picture/bukan.gif )  
   
-  I really hope to make friends with people who have the same pursuit! ! 
+  I really hope to make friends with people who have the same pursuit! !
 ![cx](/picture/wa.gif )
 
 
