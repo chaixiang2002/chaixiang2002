@@ -1,5 +1,5 @@
 #!/bin/bash
-git add -A
-git commit -m " "
+git add .
+git commit -m "_"
 git push -u origin master
 echo "successfully"
